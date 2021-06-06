@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Natural-events-EONET/static/css/main.f4f2e83a.chunk.css",
+    "main.js": "/React-Natural-events-EONET/static/js/main.d28fce74.chunk.js",
+    "main.js.map": "/React-Natural-events-EONET/static/js/main.d28fce74.chunk.js.map",
+    "runtime-main.js": "/React-Natural-events-EONET/static/js/runtime-main.4bff667d.js",
+    "runtime-main.js.map": "/React-Natural-events-EONET/static/js/runtime-main.4bff667d.js.map",
+    "static/js/2.8ee1474b.chunk.js": "/React-Natural-events-EONET/static/js/2.8ee1474b.chunk.js",
+    "static/js/2.8ee1474b.chunk.js.map": "/React-Natural-events-EONET/static/js/2.8ee1474b.chunk.js.map",
+    "static/js/3.dff72b67.chunk.js": "/React-Natural-events-EONET/static/js/3.dff72b67.chunk.js",
+    "static/js/3.dff72b67.chunk.js.map": "/React-Natural-events-EONET/static/js/3.dff72b67.chunk.js.map",
+    "index.html": "/React-Natural-events-EONET/index.html",
+    "static/css/main.f4f2e83a.chunk.css.map": "/React-Natural-events-EONET/static/css/main.f4f2e83a.chunk.css.map",
+    "static/js/2.8ee1474b.chunk.js.LICENSE.txt": "/React-Natural-events-EONET/static/js/2.8ee1474b.chunk.js.LICENSE.txt",
+    "static/media/Spinner.ab6cafe8.gif": "/React-Natural-events-EONET/static/media/Spinner.ab6cafe8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bff667d.js",
+    "static/js/2.8ee1474b.chunk.js",
+    "static/css/main.f4f2e83a.chunk.css",
+    "static/js/main.d28fce74.chunk.js"
+  ]
+}
